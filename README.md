@@ -2,7 +2,7 @@
 
 **Scheduled, multi-recipient USDC payroll on Arc — lock once, pay everyone on time, no custodian in the middle.**
 
-🌐 **Live app:** https://payrun-beta.vercel.app
+🌐 **Live app:** https://payrun.kutluhaneth.com
 
 [![Payrun demo video](https://img.youtube.com/vi/_EZcmsbJqsU/maxresdefault.jpg)](https://youtu.be/_EZcmsbJqsU)
 
