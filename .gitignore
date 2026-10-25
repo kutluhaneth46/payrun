@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+contracts/out/
+contracts/cache/
+broadcast/
+
+# environment
+.env
+.env.*
+!.env.example
+
+# logs / local tooling
+*.log
+*.jsonl
+.DS_Store
+*.zip
+node_modules/.tmp/
